@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "523478248949",
+    "firebase_url": "https://asmt-c5a55.firebaseio.com",
+    "project_id": "asmt-c5a55",
+    "storage_bucket": "asmt-c5a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523478248949:android:4a872093e2307d05",
+        "android_client_info": {
+          "package_name": "asmt.com.np.asmt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523478248949-afg9tnsbokuuqdul9v7s91570u5tr92j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVkpHvg9hfaQuZFjovR2g7C_SSCqV66ks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523478248949:android:c9b49c4a390e2fd6",
+        "android_client_info": {
+          "package_name": "np.edu.asm.asmt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523478248949-foeso2emsf6ramt77jhncdsdqf32k8p1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.edu.asm.asmt",
+            "certificate_hash": "38bf46f5927fbe373c3a8d07c9f25c9bb64f2f30"
+          }
+        },
+        {
+          "client_id": "523478248949-afg9tnsbokuuqdul9v7s91570u5tr92j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVkpHvg9hfaQuZFjovR2g7C_SSCqV66ks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523478248949-afg9tnsbokuuqdul9v7s91570u5tr92j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
